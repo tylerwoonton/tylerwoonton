@@ -3,7 +3,7 @@
 -->
 
 <p align="center">
-  <img src="undraw_source_code_xx2e.png" height="200px" />
+  <img src="https://raw.githubusercontent.com/tylerwoonton/tylerwoonton/master/undraw_source_code_xx2e.png" height="200px" />
 </p>
 
 <h1 align="center">Tyler Woonton</h1>
