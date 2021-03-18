@@ -2,16 +2,9 @@
 **tylerwoonton/tylerwoonton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<!--<p align="center">
-  <img src="https://raw.githubusercontent.com/tylerwoonton/tylerwoonton/master/undraw_source_code_xx2e.png" height="200px" />
-</p>
--->
-
-<!--
 <p align="center">
-  <img src="https://media.giphy.com/media/QX22HMlpgdkJapKF75/giphy.gif" height="200" />
+  <img src="https://raw.githubusercontent.com/tylerwoonton/tylerwoonton/master/TylerWJar.png" height="200px" />
 </p>
--->
 
 <h1 align="center">Tyler Woonton</h1>
 <h3 align="center">PHP Developer from Manchester, England</h3>
