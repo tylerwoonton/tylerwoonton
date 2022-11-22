@@ -7,7 +7,6 @@
 </p>
 
 <h1 align="center">Tyler Woonton</h1>
-<h3 align="center">PHP Developer from Manchester, England</h3>
 
 <p align="center">
   <a href="https://twitter.com/tylerwoonton" target="_blank">
